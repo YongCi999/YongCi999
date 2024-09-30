@@ -7,15 +7,15 @@ I'm interested in game developing, especially in game programming, and understan
 I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
 
 **📩Email** <br>
-hi@fajar.io
+rafudialexander2@gmail.com
 
 <br>
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Space Invader </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Runaway</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -28,8 +28,8 @@ hi@fajar.io
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">Space Invader [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
+      <td valign="text-top">Runaway is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
@@ -49,8 +49,8 @@ hi@fajar.io
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Shevia Fire VR</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Top Down Shooter</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Fighting Game</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
