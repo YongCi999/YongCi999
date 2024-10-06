@@ -1,7 +1,7 @@
 Hi, I'm Alex 👋
 ---
 **📌About** <br>
-Hi, I'm Aleaxnder Rafudi, also known as Alex. I am a student in Bina Nusantara University, within a faculty of computer science and majoring in Game Application and Technology.
+Hello, I'm Alexander Rafudi, also known as Alex. I am a student in Bina Nusantara University, within a faculty of computer science and majoring in Game Application and Technology.
 I'm interested in game developing, especially in game programming, and understanding on how the way game codes work.
 
 I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
