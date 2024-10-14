@@ -14,8 +14,8 @@ rafudialexander2@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Outbreak</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Runaway</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Outbreak</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -28,8 +28,8 @@ rafudialexander2@gmail.com
       </td>
     </tr>
     <tr>
+      <td valign="text-top">Runaway is a endless running game with a flood apocalyptic theme. The core game mechanics was developed in under 2 days.</td> <!--desc-->
       <td valign="text-top">Outbreak is a survival top down shooter with a hopeless situation theme with the goal is to obtain the highest score possible.</td> <!--desc-->
-      <td valign="text-top">Runaway is a endless running game with a flood apocalyptic theme. The core game mechanics was developed in under 2 days</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="--">--</a></td> <!--link1-->
