@@ -29,7 +29,7 @@ rafudialexander2@gmail.com
     </tr>
     <tr>
       <td valign="text-top">Runaway is a endless running game with a flood apocalyptic theme.</td> <!--desc-->
-      <td valign="text-top">Outbreak is a survival top down shooter with a hopeless situation theme with the goal is to obtain the highest score possible.</td> <!--desc-->
+      <td valign="text-top">Outbreak is a tower defence game with the goal of ensuring the enemy does not reach to the end.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="--">--</a></td> <!--link1-->
