@@ -19,27 +19,22 @@ rafudialexander2@gmail.com
     </tr>
   </thead>
   <tbody>
-
-
-    <tr>
+    
+  <tr>
       <td align="center">
-        <img src="" alt="1" style="width:100%;height:auto;">
+        <img src="(https://github.com/user-attachments/assets/1b8a576b-238b-42b9-a333-1c73d7c34cf9)" alt="Runaway Image" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="(https://github.com/user-attachments/assets/62c5301d-83ac-4d0a-9c9a-c9f953ec1b2e)" alt="Outbreak Image" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Runaway is a endless running game with a flood apocalyptic theme.</td> <!--desc-->
-      <td valign="text-top">Outbreak is a tower defence game with the goal of ensuring the enemy does not reach to the end.</td> <!--desc-->
+      <td valign="text-top">Runaway is an endless running game with a flood apocalyptic theme.</td> <!--desc-->
+      <td valign="text-top">Outbreak is a tower defense game where you prevent enemies from reaching the end.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="--">--</a></td> <!--link1-->
-      <td align="center"><a href="--">--</a></td> <!--link2-->
-    </tr>
-    <tr>
-      <td align="center"><a href="--">--</a></td> <!--link1-->
-      <td align="center"><a href="--">--</a></td> <!--link2-->
+      <td align="center"><a href="#">Runaway GitHub Link</a></td> <!--link1-->
+      <td align="center"><a href="#">Outbreak GitHub Link</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
