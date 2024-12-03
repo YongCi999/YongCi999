@@ -22,10 +22,10 @@ rafudialexander2@gmail.com
     
   <tr>
       <td align="center">
-        <img src="![Runaway+gif](https://github.com/user-attachments/assets/13116b5e-330b-4d7d-b654-926589e98d2e)" alt="Runaway Image" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/13116b5e-330b-4d7d-b654-926589e98d2e" alt="Runaway Image" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="![ezgif-4-a84424689d](https://github.com/user-attachments/assets/0bf7953e-32f8-405d-a1d2-4d7d9e5f474f)" alt="Outbreak Image" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/0bf7953e-32f8-405d-a1d2-4d7d9e5f474f" alt="Outbreak Image" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
