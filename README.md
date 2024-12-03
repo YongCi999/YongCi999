@@ -19,12 +19,13 @@ rafudialexander2@gmail.com
     </tr>
   </thead>
   <tbody>
+
     <tr>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/1b8a576b-238b-42b9-a333-1c73d7c34cf9" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/1056d300-fdde-4f85-925f-894642198f79" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
