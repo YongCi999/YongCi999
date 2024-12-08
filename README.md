@@ -46,21 +46,21 @@ rafudialexander2@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Action</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Running Dead</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Running Dead</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>???</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/8d39c0f9-7511-4b6e-9602-24917e2b28f7" alt="Running Dead" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">--</td> <!--desc-->
+      <td valign="text-top">Running Dead is a Rougelike arena top-down Zombie shooter game.</td> <!--desc-->
       <td valign="text-top">--</td> <!--desc-->
     </tr>
     <tr>
