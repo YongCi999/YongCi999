@@ -32,10 +32,6 @@ rafudialexander2@gmail.com
       <td valign="text-top">Runaway is an endless running game with a flood apocalyptic theme.</td> <!--desc-->
       <td valign="text-top">Outbreak is a tower defense game where you prevent enemies from reaching the end.</td> <!--desc-->
     </tr>
-    <tr>
-      <td align="center"><a href="#">Runaway GitHub Link</a></td> <!--link1-->
-      <td align="center"><a href="#">Outbreak GitHub Link</a></td> <!--link2-->
-    </tr>
   </tbody>
 </table>
 
@@ -47,7 +43,7 @@ rafudialexander2@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Running Dead</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>???</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Survival Brawl</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -61,15 +57,7 @@ rafudialexander2@gmail.com
     </tr>
     <tr>
       <td valign="text-top">Running Dead is a Rougelike arena top-down Zombie shooter game.</td> <!--desc-->
-      <td valign="text-top">--</td> <!--desc-->
-    </tr>
-    <tr>
-      <td align="center"><a href="">--</a></td> <!--link 3-->
-      <td align="center"><a href="">--</a></td> <!--link 4-->
-    </tr>
-    <tr>
-      <td align="center"><a href="">--</a></td> <!--link 3-->
-      <td align="center"><a href="">--</a></td> <!--link 4-->
+      <td valign="text-top">Survival Brawl is a 2D side-scrolling beat em up game where the player fight through a wave of enemies in the jungle.</td> <!--desc-->
     </tr>
   </tbody>
 </table>
