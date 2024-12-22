@@ -29,8 +29,8 @@ rafudialexander2@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Runaway is a 3D endless runner set on a collapsing bridge during a flood apocalypse. Dodge debris, outrun the rising waters, and see how far you can get.</td> <!--desc-->
-      <td valign="text-top">Outbreak is a 2D tower defense game where you build and upgrade defenses to stop enemies from breaching your base. Strategize, place turrets, and hold the line against relentless waves.</td> <!--desc-->
+      <td valign="text-top">Runaway is a 3D endless runner set on a collapsing bridge during a flood apocalypse. Dodge debris, collect coins, outrun the rising waters, get those high scores, and see how far you can get.</td> <!--desc-->
+      <td valign="text-top">Outbreak is a 2D tower defense game where you build and upgrade defenses to stop enemies from breaching your base. Strategize on turrets placement, buy upgrades, unlock new turrets, and hold the line against relentless enemy waves.</td> <!--desc-->
     </tr>
   </tbody>
 </table>
@@ -56,8 +56,8 @@ rafudialexander2@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Running Dead is a roguelike 2D top-down zombie shooter where you battle endless waves of the undead. Upgrade skills, unlock new characters and weapons, and fight to survive in chaotic underground arenas.</td> <!--desc-->
-      <td valign="text-top">Survival Brawl is a 2D side-scrolling beat em up game set within a jungle. Fight through hordes of enemies, unleash combos, and survive increasingly tough waves.</td> <!--desc-->
+      <td valign="text-top">Running Dead is a roguelike 2D top-down zombie shooter where you battle againts endless waves of the undead. Upgrade skills, unlock new characters and weapons, and fight to survive in chaotic underground arenas with a wide variety of zombies.</td> <!--desc-->
+      <td valign="text-top">Survival Brawl is a 2D side-scrolling beat em up game set within a jungle. Fight through hordes of enemies, unleash combos, and survive through increasingly tough waves.</td> <!--desc-->
     </tr>
   </tbody>
 </table>
