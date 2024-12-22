@@ -29,8 +29,8 @@ rafudialexander2@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Runaway is an endless running game with a flood apocalyptic theme.</td> <!--desc-->
-      <td valign="text-top">Outbreak is a tower defense game where you prevent enemies from reaching the end.</td> <!--desc-->
+      <td valign="text-top">Runaway is a 3D endless runner set on a collapsing bridge during a flood apocalypse. Dodge debris, outrun the rising waters, and see how far you can get.</td> <!--desc-->
+      <td valign="text-top">Outbreak is a 2D tower defense game where you build and upgrade defenses to stop enemies from breaching your base. Strategize, place turrets, and hold the line against relentless waves.</td> <!--desc-->
     </tr>
   </tbody>
 </table>
@@ -56,8 +56,8 @@ rafudialexander2@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Running Dead is a Rougelike arena top-down Zombie shooter game.</td> <!--desc-->
-      <td valign="text-top">Survival Brawl is a 2D side-scrolling beat em up game where the player fight through a wave of enemies in the jungle.</td> <!--desc-->
+      <td valign="text-top">Running Dead is a roguelike 2D top-down zombie shooter where you battle endless waves of the undead. Upgrade skills, unlock new characters and weapons, and fight to survive in chaotic underground arenas.</td> <!--desc-->
+      <td valign="text-top">Survival Brawl is a 2D side-scrolling beat em up game set within a jungle. Fight through hordes of enemies, unleash combos, and survive increasingly tough waves.</td> <!--desc-->
     </tr>
   </tbody>
 </table>
